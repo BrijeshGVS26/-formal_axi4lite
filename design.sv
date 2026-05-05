@@ -1,7 +1,4 @@
-// =============================================================================
-// design.sv — paste into EDA Playground "Design" pane
-// AXI4-Lite slave (sim copy of the formal-verified RTL).
-// =============================================================================
+
 `default_nettype none
 
 module axi4lite_slave #(
