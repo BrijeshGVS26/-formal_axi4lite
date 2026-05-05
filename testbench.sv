@@ -1,8 +1,4 @@
-// =============================================================================
-// testbench.sv — paste into EDA Playground "Testbench + Verification" pane
-// Day 2: full UVM env + RAL register model + AXI4-Lite adapter + predictor.
-// Tests: smoke, reg_hw_reset, reg_bit_bash, reg_access.
-// =============================================================================
+
 `timescale 1ns/1ps
 
 // ============================================================================
